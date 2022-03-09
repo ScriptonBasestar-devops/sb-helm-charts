@@ -1,5 +1,7 @@
 # Helm Chart - ScriptonBasestar
 
+k3s 설정시 필요한것들
+
 ## 용도별
 
 ### Network
